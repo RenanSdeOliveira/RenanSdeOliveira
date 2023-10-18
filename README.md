@@ -1,0 +1,5 @@
+- 👋 Olá, eu sou @RenanSdeOliveira, cientista da computação.
+- 👀 Me interesso por Python, Java, Banco de Dados e Cloud.
+- 🌱 Atualmente me especializando em cloud e tecnologias da cultura DevOps.
+- 💞️ I’m looking to collaborate on ...
+- 📫 Você pode encontrar alguns dos projetos de Cloud & DevOps em (https://medium.com/@renansoliveira).
